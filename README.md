@@ -14,7 +14,7 @@ O SIC busca centralizar a gestão da carteira de projetos, padronizando cadastro
   - Product Owner – Especialista em gestão de portfólio de projetos
   - Scrum Master – Especialista em gestão de projetos
   - Desenvolvimento (3) – Full Stack, Frontend e UX/UI Designer
-  - QA – Testes funcionais e de integração
+  - Consultor - Engenheiro especialista em projetos de mineração.
 
 **Funcionalidades do MVP**
   - Cadastro de projetos
