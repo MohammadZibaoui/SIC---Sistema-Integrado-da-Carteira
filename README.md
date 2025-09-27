@@ -28,19 +28,6 @@ O SIC busca centralizar a gestão da carteira de projetos, padronizando cadastro
   - Cadastro de códigos padrão de cronograma
   - Dashboards consolidados e analíticos
 
-📂 Estrutura do Repositório
-📂 sic-mvp/
- ┣ 📜 README.md            → este arquivo
- ┣ 📜 canvas-url.txt       → link para o MVP Canvas (Miro)
- ┣ 📜 product-backlog.pdf  → backlog do produto (Jira exportado)
- ┣ 📜 sprint-backlog.pdf   → backlog da sprint (Jira exportado)
- ┣ 📂 wireframes/          → protótipos de baixa fidelidade (Figma)
- ┃ ┣ login.png
- ┃ ┣ cadastro-usuario.png
- ┃ ┣ cadastro-projeto.png
- ┃ ┗ dashboard.png
- ┣ 📜 showcase.mp4         → vídeo de apresentação (ou showcase-url.txt)
-
 **Entregas**
   - Lean Inception / MVP Canvas: [link no Miro via canvas-url.txt]
   - Backlog do Produto: product-backlog.pdf
